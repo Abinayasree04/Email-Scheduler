@@ -1,0 +1,3 @@
+com\example\emailscheduler\service\EmailService.class
+com\example\emailscheduler\scheduler\EmailScheduler.class
+com\example\emailscheduler\EmailSchedulerApplication.class
